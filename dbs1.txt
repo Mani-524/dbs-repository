@@ -1,0 +1,31 @@
+<HTML>
+<BODY>
+<FORM NAME="F1">
+<INPUT TYPE="BUTTON" VALUE="Open Maket" name="b1">&nbsp;&nbsp;<INPUT TYPE="BUTTON" VALUE="CLOSE Market" name="b2">
+
+<BR>
+
+<SELECT NAME="S1">
+
+<OPTION VALUE="Select Stock">Select Stock</option>
+
+<OPTION VALUE="DBS"> DBS....</option>
+<OPTION VALUE="Select Stock">tcs</option> 
+<OPTION VALUE="Select Stock">infosys</option>
+
+</select>
+
+<br>
+
+From Date: <input type="date"> to Date <input type="date">&nbsp; &nbsp; <input type="button" value="show Orders">
+
+<table border="2">
+<tr><th>S.no<th>Stock name<th>order city<th>Order type<th>executed qty<th>price<th>order status<th>order dates</th>
+<tr><td>1<td>DBS<td>50<td>Limit<td>0<td>150<td>place<td>21 feb</tr>
+<tr><td>1<td>DBS<td>50<td>Limit<td>0<td>150<td>place<td>21 feb</tr>    
+<tr><td>1<td>DBS<td>50<td>Limit<td>0<td>150<td>place<td>21 feb</tr>
+</table>
+</FORM>
+</BODY>
+</HTML>
+
